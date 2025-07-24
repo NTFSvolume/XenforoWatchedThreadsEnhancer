@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Xenforo Watched Threads Enhancer
-// @version      1.1.0
+// @version      1.1.1
 // @description  Categorizes and adds search to watched threads.
-// @match        https://*.simpcity.su/watched/threads*
+// @match        https://*.simpcity.cr/watched/threads*
 // @grant        GM_addStyle
 // @grant        GM_getValue
 // @grant        GM_setClipboard
